@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:garysimons.github.io/girls-on-the-run/static/css/main.9860f507.css",
+    "main.js": "/http//:garysimons.github.io/girls-on-the-run/static/js/main.a1a9a2db.js",
+    "index.html": "/http//:garysimons.github.io/girls-on-the-run/index.html",
+    "main.9860f507.css.map": "/http//:garysimons.github.io/girls-on-the-run/static/css/main.9860f507.css.map",
+    "main.a1a9a2db.js.map": "/http//:garysimons.github.io/girls-on-the-run/static/js/main.a1a9a2db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9860f507.css",
+    "static/js/main.a1a9a2db.js"
+  ]
+}
